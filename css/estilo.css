@@ -1,11 +1,32 @@
 body{
-    background:rgb(32, 32, 163);
-    color: rgb(50, 145, 121);
+    
     text-align: left;
     font-family:fantasy;
+
+    background-image: url(https://wallpaperaccess.com/full/3792708.jpg);
 }
-h1{
+marquee{
+  
+    font-size: 50px;
+    
+}
+
+form{
     text-align: center;
     font-size: larger;
+}
+
+label,legend,option{
+    background-color: rgb(57, 25, 175);
+
+}
+
+button{
+    background-color: brown;
+}
+
+
+input{
+    border-color:black;
     
 }
